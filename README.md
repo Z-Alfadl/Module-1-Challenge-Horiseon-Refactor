@@ -1,7 +1,7 @@
 # Module 1 Challenge: Code Refactor
 
 The Module 1 challenge is to refactor the provided starter code for a webpage to make it more accessible.
-
+![Image](./assets/images/Horiseon-ss.png)
 ## Overview
 The following changes were made in the refactoring process:
 ### HTML
